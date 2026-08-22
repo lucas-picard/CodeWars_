@@ -1,5 +1,5 @@
 # 💻 Projets Codewars
-hgpo
+hgp
 ##  À propos
 
 Voici quelques projets que j’ai réalisés sur Codewars, adaptés pour une exécution visuelle dans VS Code.
